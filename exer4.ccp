@@ -15,11 +15,5 @@ int main() {
 	printf("\nPra produzir %.2f quilos de latao sao necessarios %.2f de zinco e %.2f de cobre\n\n", quilo, zin, cob);
 
 	system("PAUSE");
-	return(0);
-
-
-
-
-
-	
+	return(0);	
 }
